@@ -1,0 +1,4 @@
+# Sitemap is also available on /sitemap.xml
+Sitemap: https://www.carservice59.com/sitemap.xml
+User-agent: *
+
